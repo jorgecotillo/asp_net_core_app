@@ -1,2 +1,2 @@
 # ASP.NET Core Application
-Visual Studio 2017 template that has no authentication
+Application emplate that has no authentication - it can be opened in Visual Studio Code, Visual Studio for Mac and Visual Studio 2017.
