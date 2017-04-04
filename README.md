@@ -1,2 +1,2 @@
-# asp_net_core_app
+# ASP.NET Core Application
 Visual Studio 2017 template that has no authentication
